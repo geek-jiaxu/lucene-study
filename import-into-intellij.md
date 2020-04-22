@@ -1,2 +1,0 @@
-Import Lucene Into Intellij
-=======================
